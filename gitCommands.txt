@@ -1,6 +1,6 @@
 git init  - initiate repository to local dir
 
-git add - prepare ready to staged 
+git add - prepare ready/track  to staged 
 
 git commit - staged to local dir and ready to push
 
